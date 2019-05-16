@@ -2953,12 +2953,16 @@
   width:133px;
   height:24px;
   background:inherit;
-  background-color:rgba(22, 155, 213, 1);
-  border:none;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(22, 155, 213, 1);
   border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#169BD5;
 }
 #u1569 {
   border-width:0px;
@@ -2967,6 +2971,7 @@
   top:222px;
   width:133px;
   height:24px;
+  color:#169BD5;
 }
 #u1569_text {
   border-width:0px;

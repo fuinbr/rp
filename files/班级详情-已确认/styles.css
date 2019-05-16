@@ -2488,12 +2488,16 @@
   width:133px;
   height:28px;
   background:inherit;
-  background-color:rgba(22, 155, 213, 1);
-  border:none;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(22, 155, 213, 1);
   border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  color:#169BD5;
 }
 #u1748 {
   border-width:0px;
@@ -2502,6 +2506,7 @@
   top:220px;
   width:133px;
   height:28px;
+  color:#169BD5;
 }
 #u1748_text {
   border-width:0px;
