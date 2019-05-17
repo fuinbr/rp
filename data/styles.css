@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -8,41 +8,41 @@
   line-height:normal;
 }
 ._标题1 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._标题2 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._标题3 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._标题4 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._标题5 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 .heading_6 {
-  font-family:'Arial Normal', 'Arial';
+  font-family:'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
